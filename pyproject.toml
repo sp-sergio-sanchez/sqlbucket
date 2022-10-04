@@ -6,7 +6,7 @@ authors = [
 ]
 description = "SQLBucket - Write your SQL ETL flow and ETL integrity tool."
 license = {file = "LICENSE"}
-readme = "README.md"
+readme = "README.rst"
 requires-python = ">=3.7"
 keywords = ['sql', 'etl', 'data-integrity']
 classifiers=[
